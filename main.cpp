@@ -5,7 +5,7 @@ using namespace std;
 
 int add(int a, int b);
 
-void say (string s);
+void say (string s, int n);
 
 int main () {
     cout << "Greetings" << endl;
@@ -16,6 +16,6 @@ int add (int a, int b) {
     return a + b;
 }
 
-void say (string s) {
-    cout << s << endl;
+void say (string s, int n) {
+    cout << s << n << endl;
 }
