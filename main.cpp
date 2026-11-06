@@ -8,6 +8,7 @@ int add(int a, int b);
 void sayString (string s);
 
 int main () {
+    cout << "Greetings!" << endl;
     return 0;
 }
 
