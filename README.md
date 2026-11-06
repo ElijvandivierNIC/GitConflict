@@ -1,1 +1,1 @@
-# GitConflictFall26
+# GitConflict
