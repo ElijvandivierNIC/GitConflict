@@ -14,6 +14,7 @@ int main () {
 
 int add(int c, int d) {
     return c + d;
+}
 int add (int a, int b) {
     return a + b;
 }
