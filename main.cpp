@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+#include <cmath>
 using namespace std;
 
 int add(int a, int b);
