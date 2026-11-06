@@ -7,6 +7,8 @@ int add(int a, int b);
 
 int add(int c, int d);
 
+void say (string s);
+
 int main () {
     cout << "Greetings" << endl;
     return 0;
@@ -17,4 +19,8 @@ int add(int c, int d) {
 }
 int add (int a, int b) {
     return a + b;
+}
+
+void say (string s) {
+    cout << s << endl;
 }
