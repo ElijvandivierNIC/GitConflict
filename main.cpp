@@ -8,7 +8,7 @@ int add(int a, int b);
 int add(int c, int d);
 
 int main () {
-    cout << "Greetings" << endl;
+    cout << "Greetings!" << endl;
     return 0;
 }
 
