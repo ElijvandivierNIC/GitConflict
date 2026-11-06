@@ -5,8 +5,6 @@ using namespace std;
 
 int add(int a, int b);
 
-int add(int c, int d);
-
 void say (string s);
 
 int main () {
@@ -14,9 +12,6 @@ int main () {
     return 0;
 }
 
-int add(int c, int d) {
-    return c + d;
-}
 int add (int a, int b) {
     return a + b;
 }
